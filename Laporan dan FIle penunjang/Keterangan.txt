@@ -1,0 +1,20 @@
+Judul Tugas Besar : Analisis Kerentanan Web Terhadap Serangan Unrestrictred File Upload
+
+Anggota Kelompok :
+
+Fayzaya Ganang Putra 		5180411066
+Danang Avan Maulana		5180411091
+Muhammad Nur Aziz Ma’ruf  	5180411126
+Sem Gilbert			5180411144
+Bagas Tri Usada			5180411109
+
+Keterangan File :
+
+Laporan MKK.pdf (Laporan Mengengai Tugas Besar Kami)
+rce.py (File untuk melakukan backconnect server)
+fix.php (File yang berisi code untuk menambal/memperbaiki kerentanan)
+
+Link donwload aplikasi Exam Hall Management System :
+https://www.sourcecodester.com/php/14205/exam-hall-management-system-full-source-code-using-phpmysql.html
+
+
